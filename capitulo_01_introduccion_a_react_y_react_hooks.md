@@ -846,3 +846,4 @@ Si estás interesado en obtener más información sobre los conceptos que hemos 
 - Desestructuración (*Destructuring*): [https://exploringjs.com/es6/ch_destructuring.html](https://exploringjs.com/es6/ch_destructuring.html)
 - Plantillas de cadenas (*Template strings*): [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
 - Operador ternario (*Ternary operator*): [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_operator)
+
